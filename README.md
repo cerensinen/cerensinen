@@ -16,4 +16,4 @@ Web Development (HTML, CSS, JavaScript, PHP, SQL) for problem solving and learni
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cerensinen&layout=compact&theme=radical)
 
-⭐️ From [Ceren](https://github.com/cerensinen)
+
