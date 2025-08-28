@@ -12,8 +12,6 @@ Web Development (HTML, CSS, JavaScript, PHP, SQL) for problem solving and learni
 | ![Python](https://img.icons8.com/color/48/000000/python.png) |   |   | ![Jupyter](https://img.icons8.com/color/48/000000/jupyter.png) |
 
 
-![Ceren's GitHub stats](https://github-readme-stats.vercel.app/api?username=cerensinen&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cerensinen&layout=compact&theme=radical)
 
 
