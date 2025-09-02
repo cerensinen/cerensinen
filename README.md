@@ -14,15 +14,6 @@ Web Development (HTML, CSS, JavaScript, PHP, SQL) for problem solving and learni
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cerensinen&layout=compact&theme=radical)
 
-## En Çok Kullandığım Diller
-
-| Dil        | Yüzde |
-|------------|-------|
-| HTML       | 25%   |
-| CSS        | 20%   |
-| JavaScript | 30%   |
-| PHP        | 15%   |
-| SQL        | 10%   |
 
 
 
